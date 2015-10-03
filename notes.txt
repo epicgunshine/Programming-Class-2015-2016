@@ -1,0 +1,5 @@
+pwd=
+ls=list
+cd=change dirctory
+clear=clear
+up arrow=history
